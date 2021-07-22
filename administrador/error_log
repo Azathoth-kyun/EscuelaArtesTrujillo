@@ -1,0 +1,524 @@
+[22-Aug-2019 19:34:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Matricula' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/matricula.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php on line 9
+[22-Aug-2019 19:36:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Matricula' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/matricula.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php on line 9
+[22-Aug-2019 19:36:49 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:36:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:36:54 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[22-Aug-2019 19:47:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:47:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:47:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:47:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:48:04 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:48:40 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:48:50 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:48:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:48:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:50:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:50:20 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:50:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php on line 9
+[22-Aug-2019 19:52:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:52:31 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[22-Aug-2019 19:53:04 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Matricula' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/matricula.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php on line 9
+[22-Aug-2019 19:53:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[22-Aug-2019 19:53:15 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[22-Aug-2019 19:53:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php on line 9
+[22-Aug-2019 19:53:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:53:24 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[22-Aug-2019 19:53:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[23-Aug-2019 02:49:27 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[23-Aug-2019 02:49:31 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[23-Aug-2019 02:49:31 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[23-Aug-2019 02:49:32 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[23-Aug-2019 02:49:37 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[23-Aug-2019 02:57:29 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/index.php:11
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/index.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/index.php on line 11
+[23-Aug-2019 02:57:37 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[23-Aug-2019 02:59:12 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[23-Aug-2019 02:59:14 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[23-Aug-2019 03:01:16 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php on line 9
+[23-Aug-2019 03:01:52 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php on line 9
+[23-Aug-2019 03:01:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[23-Aug-2019 03:02:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php on line 9
+[23-Aug-2019 03:03:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[23-Aug-2019 03:05:11 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php on line 9
+[23-Aug-2019 03:05:15 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:07:14 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:08:54 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[23-Aug-2019 03:10:26 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[23-Aug-2019 03:12:11 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[23-Aug-2019 03:12:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/areas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/areas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/areas.php on line 9
+[23-Aug-2019 03:13:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:15:03 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:15:54 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:16:29 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:16:54 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/asignaturas.php on line 9
+[23-Aug-2019 03:29:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/periodoacad.php on line 9
+[23-Aug-2019 03:30:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profesores.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profesores.php on line 9
+[23-Aug-2019 03:33:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/profasignado.php on line 9
+[23-Aug-2019 03:34:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 9
+[23-Aug-2019 03:39:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php on line 12
+[23-Aug-2019 03:40:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Matricula' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/matricula.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/matricula.php on line 9
+[23-Aug-2019 03:59:59 Asia/Kolkata] PHP Deprecated:  mysql_set_charset(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 03:59:59 Asia/Kolkata] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 03:59:59 Asia/Kolkata] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:00:01 Asia/Kolkata] PHP Deprecated:  mysql_set_charset(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:00:01 Asia/Kolkata] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:00:01 Asia/Kolkata] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:00:32 Asia/Kolkata] PHP Deprecated:  mysql_set_charset(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:00:32 Asia/Kolkata] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:00:32 Asia/Kolkata] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:01:35 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:01:36 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:03:18 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:03:21 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:03:24 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:03:36 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:03:51 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:04:15 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php:1) in /home/delnorte/esadt.delicianortena.com/administrador/constants/check-login.php on line 2
+[23-Aug-2019 04:04:15 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php on line 9
+[23-Aug-2019 04:06:10 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php:1) in /home/delnorte/esadt.delicianortena.com/administrador/constants/check-login.php on line 2
+[23-Aug-2019 04:06:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Ciclo' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php:16
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php on line 16
+[23-Aug-2019 04:06:50 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php:1) in /home/delnorte/esadt.delicianortena.com/administrador/constants/check-login.php on line 2
+[23-Aug-2019 04:06:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Matricula' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editmatricula.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editmatricula.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editmatricula.php on line 12
+[23-Aug-2019 04:11:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Plan_Estudios' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarplan.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarplan.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarplan.php on line 12
+[23-Aug-2019 04:14:11 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Plan_Estudios' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregararea.php:10
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregararea.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregararea.php on line 10
+[23-Aug-2019 04:18:16 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarea.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarea.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarea.php on line 12
+[23-Aug-2019 04:18:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarea.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarea.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarea.php on line 12
+[23-Aug-2019 04:19:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarea.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarea.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarea.php on line 12
+[23-Aug-2019 04:57:47 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 04:59:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php on line 12
+[23-Aug-2019 04:59:37 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregasignatura.php:10
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregasignatura.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregasignatura.php on line 10
+[23-Aug-2019 05:01:54 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php on line 12
+[23-Aug-2019 05:03:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php on line 12
+[23-Aug-2019 05:03:09 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editasignacion.php on line 12
+[23-Aug-2019 05:05:50 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Areas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregperacad.php:10
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregperacad.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregperacad.php on line 10
+[23-Aug-2019 05:06:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editperacad.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editperacad.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editperacad.php on line 12
+[23-Aug-2019 05:07:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.PerAcad' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editperacad.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editperacad.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editperacad.php on line 12
+[23-Aug-2019 05:08:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Tipo_Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregarprofesor.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregarprofesor.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregarprofesor.php on line 9
+[23-Aug-2019 05:18:08 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Tipo_Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editipo.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editipo.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editipo.php on line 12
+[23-Aug-2019 05:23:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 05:24:56 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 05:25:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php on line 12
+[23-Aug-2019 05:25:49 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 05:26:14 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 05:26:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Alumno' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editaralumno.php on line 12
+[23-Aug-2019 05:28:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 05:28:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregarusuario.php:14
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregarusuario.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregarusuario.php on line 14
+[23-Aug-2019 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php:14
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/edituser.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php on line 14
+[23-Aug-2019 05:30:12 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php:14
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/edituser.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php on line 14
+[23-Aug-2019 05:31:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php:14
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/edituser.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php on line 14
+[23-Aug-2019 05:31:43 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php:14
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/edituser.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php on line 14
+[23-Aug-2019 05:33:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php:14
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/edituser.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/edituser.php on line 14
+[23-Aug-2019 05:34:54 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/delnorte/esadt.delicianortena.com/administrador/agregarmatricula.php:1) in /home/delnorte/esadt.delicianortena.com/administrador/constants/check-login.php on line 2
+[23-Aug-2019 05:35:39 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Ciclo' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/ciclo.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/ciclo.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/ciclo.php on line 9
+[23-Aug-2019 05:36:37 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Ciclo' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarciclo.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarciclo.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarciclo.php on line 12
+[23-Aug-2019 06:11:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'U.id' in 'field list'' in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php on line 9
+[23-Aug-2019 06:12:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'U.id' in 'field list'' in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php on line 9
+[23-Aug-2019 06:13:24 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'U.id' in 'field list'' in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php on line 9
+[23-Aug-2019 06:13:34 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'U.id' in 'field list'' in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php on line 9
+[23-Aug-2019 06:15:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'U.id' in 'field list'' in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php on line 9
+[23-Aug-2019 06:22:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INER JOIN tipo_usuario TP ON U.id_rol = TP.id where U.status = !99' at line 1' in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php:9
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/usuarios.php on line 9
+[23-Aug-2019 06:25:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php:12
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php on line 12
+[23-Aug-2019 06:26:35 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php:20
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php on line 20
+[23-Aug-2019 06:28:03 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.Personal' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php:20
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/agregasigdocent.php on line 20
+[23-Aug-2019 06:43:37 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarasigdocent.php:17
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarasigdocent.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarasigdocent.php on line 17
+[23-Aug-2019 06:43:58 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'delnorte_esadt.SubAreas' doesn't exist' in /home/delnorte/esadt.delicianortena.com/administrador/editarasigdocent.php:17
+Stack trace:
+#0 /home/delnorte/esadt.delicianortena.com/administrador/editarasigdocent.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/delnorte/esadt.delicianortena.com/administrador/editarasigdocent.php on line 17
+[23-Aug-2019 09:53:08 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 09:53:45 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 09:55:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 10:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 11:43:21 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 13:11:10 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 21:51:58 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 22:55:53 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[23-Aug-2019 22:56:45 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[24-Aug-2019 20:42:38 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7
+[24-Aug-2019 21:22:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/delnorte/esadt.delicianortena.com/administrador/agregasignatura.php on line 117
+[24-Aug-2019 21:22:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/delnorte/esadt.delicianortena.com/administrador/agregasignatura.php on line 117
+[24-Aug-2019 22:36:33 Asia/Kolkata] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/delnorte/esadt.delicianortena.com/administrador/alumnos.php on line 7

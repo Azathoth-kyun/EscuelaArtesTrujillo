@@ -1,0 +1,2 @@
+[23-Aug-2019 19:51:55 Asia/Kolkata] PHP Warning:  unlink(../../assets/uploads/avatar/): Is a directory in /home/delnorte/esadt.delicianortena.com/docente/app/update-profile.php on line 20
+[23-Aug-2019 19:53:48 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/delnorte/esadt.delicianortena.com/docente/app/update-profile.php on line 7

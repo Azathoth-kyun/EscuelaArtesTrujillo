@@ -1,0 +1,30 @@
+Sistema de Gestion y Control de Notas
+-Registro de Matricula - Fix 90%
+-Actualizacion de Matricula - Fix 90%
+-Registro de Plan de Estudios - Fix 95%
+-Actualizacion de Plan de Estudios - Fix 95%
+-Registro de Areas - Fix 100%
+-Actualizacion de Areas - Fix 100%
+-Registro de SubAreas o Asignaturas - Fix 95%
+-Actualizacion de SubAreas o Asignaturas - Fix 95%
+-Registro de Periodo Academico - Fix 90%
+-Actualizacion de Periodo Academico - Fix 90%
+-Lista Profesores - Fix 100%
+-Registro de Profesores - Fix 100%
+-Actualizacion de Profesores - Fix 100%
+-Registra Asignacion a Profesor - Fix 100%
+-Actualizacion Asignacion a Profesor - Fix 100%
+-Registra Alumno - Fix 100%
+-Actualiza Alumno -Fix 100%
+-Registra Usuario - Fix 95%
+-Actualiza Usuario - Fix 95%5
+-Edita Perfil cada usuario - Fix 100
+	-Actualizar Contraseña - Fix 100%
+	-Actualizar Foto de Perfil - Fix 100%
+-
+
+
+
+
+
+
